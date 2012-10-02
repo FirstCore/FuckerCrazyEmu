@@ -1,0 +1,107 @@
+############################################################################################
+#              ______                   ______                   _____                     #
+#             / _____)                 |  ___ \                 / ___ \       _            #
+#            | /  ___  ____  ____ _   _| | _ | | ___ _   _ ____| |   | |_   _| |_          #
+#            | | (___)/ _  |/ ___) | | | || || |/ _ \ | | / _  ) |   | | | | |  _)         #
+#            | \____/( ( | | |   | |_| | || || | |_| \ V ( (/ /| |___| | |_| | |__         #
+#             \_____/ \_||_|_|    \__  |_||_||_|\___/ \_/ \____)\_____/ \____|\___)        #
+#                                 (____/                                                   #
+#                                                                                          #
+#                                      Changelog                                           #
+#                                                                                          #
+############################################################################################
+
+[56] --> [ICC] Fix Lich King.
+[55] --> Fix Earthbind totem effect and Wandering plague.
+[54] --> [Spells/Hunter] Fix Misdirection.
+[53] --> Add Scripts: Brewfest Festival.
+[52] --> Fix crash 'arena_run_reg_alloc'.
+[51] --> Add Scripts/Halls Of Lightning (thx Cashew).
+[50] --> Add Scripts/Halls Of Stone (thx Cashew).
+[49] --> Add Scripts/Halls Of Reflection (thx Cashew).
+[48] --> Pet: Return to player in passive reactstate if commandstate is follow.
+[47] --> Add Scripts/Ruby Sanctum: Halion (thx Warpten).
+[46] --> Updated script Transmogrification and fix crash gargoyle.
+[45] --> [Argent Tournament] Fix Npc Lake Frog.
+[44] --> Revert 'Fix Pet CD After Summon.'.
+[43] --> Fix [Warrior] T10 4P Bonus.
+[42] --> [Death Grip] Fix castable while jumping/falling.
+[41] --> Fix pets scaling HP.
+[40] --> Fix Pet CD After Summon.
+[39] --> Add AutoBanned Passive Anticheat System!
+[38] --> [Censor] Update vulgar slang.
+[37] --> Reset Duel Cooldowns, Hp, Mana, Rage and Runic Power in Astranaar.
+[36] --> [Censor] Update vulgar slang.
+[35] --> Add Admin Announce Command.
+[34] --> GM Account can chat at 2 faction.
+[33] --> Add script Allow Two Side Interaction Chat.
+[32] --> Add Armory Patch.
+[31] --> Fix crash script Chat Censure.
+[30] --> Add script Chat Censure.
+[29] --> [Gundrak] Changes:
+                    - Fix Drakkari Elemental.
+                   by Thainification.
+[28] --> [ICC] Changes:
+                - Dark nucleus lose aggro without a reason.
+                - Svalna & Crok: add spell Divine Surge, try to fix position problem, misc...
+	           by Thainification.
+[27] --> Fix player on transports.
+[26] --> Fix Pick Lock.
+[25] --> Fix pet not returning on target death by other player.
+[24] --> Add Updated external mail.
+[23] --> Add script Transmogrification.
+[22] --> Fix Lifebloom.
+[21] --> Project Astranaar.
+[20] --> Now priest is energized for each Power Word: Shield that is absorbed or dispelled.
+[19] --> [ICC] Big Changes:
+               Blood Prince Council:
+                - Shadow prison should only hit player.
+                - Try to relocate dark nucleus position if spawned out of LoS.
+                - Dark nucleus now should follow current target.
+                - Properly clear Kinetic Bomb MotionMaster before given new one.
+               Professor Putricide:
+                - Changed ooze target searching intervals & change amount of stacks.
+                - Ooze change target if current target died before explosion.
+               Rotface:
+                - Make Rotface facing ooze stalker in beginning on casting, instead of after finished.
+                - Slime spray now damaging correct target (in front of Rotface when casting).
+                - Add immunity.
+               Sindragosa:
+                - Will continue using Icy Grip / Blistering Cold in phase three.
+               Lich King:
+                - Interrupt Spellcasts when entering Outro.
+                - Target needs to be healable.
+               Valithria Dreamwalker:
+                - Fix double spawning of portals after wipe.
+               Crok Scourgebane:
+                - Improve resetting of Crok, so event will run better under bad conditions.
+[18] --> [ICC] Hack for ice tomb's gameobject.
+[17] --> [ICC] Modify teleport to LK!
+[16] --> Final fix of Hammer of the Righteous dmg during Avenging Wrath.
+[15] --> Fix Dancing Rune Weapon.
+[14] --> Elemental focus(shaman talent) correct proc.
+[13] --> Fix no combo points after Mind Control.
+[12] --> Reset Duel Cooldowns, Hp, Mana, Rage and Runic Power.
+[11] --> Add Passive Anticheat System.
+[10] --> Fix Grounding Totem.
+[9] --> Add PvP-Ranks System.
+[8] --> Implemented Crowd Control Delay.
+[7] --> Fix Slice and Dice and Honor Among Thieves.
+[6] --> Add script hunterpet vendor.
+[5] --> Insert change in Replace.
+[4] --> Fix Gnomeregan Pride.
+[3] --> Fix Flare and Death Grip.
+[2] --> Misc small changes.
+[1] --> Implement progressive MMR search range.
+
+############################################################################################
+#                                                                                          #
+# Thanks to:                                                                               #
+#                                                                                          #
+#            https://github.com/diton                                                      #
+#            https://github.com/gc                                                         #
+#            https://github.com/tibbi                                                      #
+#            https://github.com/locksmith                                                  #
+#            https://github.com/Thainification                                             #
+#                                                                                          #
+############################################################################################
